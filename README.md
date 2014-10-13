@@ -19,3 +19,7 @@ comprehensive standard packages in distro
 
 
 The goal of this exercise is to get familiar with prototyped languages before starting JavaScript.
+
+To run this file, just install IO on your Mac, brew install io, or download the binaries from http://iolanguage.org/
+
+After that just run io fizzbuzz.io from the directory where the file is placed.
